@@ -6,6 +6,6 @@ O SISTEMA CONSISTE EM BUSCAR INFORMAÇÕES DE UM DETERMINADO CNPJ
 o Desing foi feito atravez da ferramenta Qt De
 
 Bibliotecas 
-*requests
-*Pyqt6
-*pyinstaller
+* Requests
+* Pyqt6
+* pyinstaller
